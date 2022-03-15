@@ -9,4 +9,4 @@ upload the project on git
 ### Files used
 bikeshare_2.py
 ### Credits
-none but 1
+none but 1 amd 2
